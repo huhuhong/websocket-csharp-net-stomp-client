@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleHardwareServiceWithStomp", "SampleHardwareServiceWithStomp\SampleHardwareServiceWithStomp.csproj", "{916F3832-CB10-42FE-8442-F8A0C0764D4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleHardwareServiceApp", "SampleHardwareServiceApp\SampleHardwareServiceApp.csproj", "{6AD5867D-FEF5-4F60-A86E-371DF0B9CF58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StompHelper", "StompHelper\StompHelper.csproj", "{4446ECFE-BC73-4483-B1CD-8AAA77D0248E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{916F3832-CB10-42FE-8442-F8A0C0764D4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{916F3832-CB10-42FE-8442-F8A0C0764D4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{916F3832-CB10-42FE-8442-F8A0C0764D4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{916F3832-CB10-42FE-8442-F8A0C0764D4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AD5867D-FEF5-4F60-A86E-371DF0B9CF58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AD5867D-FEF5-4F60-A86E-371DF0B9CF58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AD5867D-FEF5-4F60-A86E-371DF0B9CF58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AD5867D-FEF5-4F60-A86E-371DF0B9CF58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4446ECFE-BC73-4483-B1CD-8AAA77D0248E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4446ECFE-BC73-4483-B1CD-8AAA77D0248E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4446ECFE-BC73-4483-B1CD-8AAA77D0248E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4446ECFE-BC73-4483-B1CD-8AAA77D0248E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
