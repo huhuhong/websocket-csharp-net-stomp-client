@@ -8,5 +8,5 @@ A C# implementation of STOMP client over websocket
 
 
 ### Reference GIT Project
-https://github.com/sta/websocket-sharp
-https://github.com/ernstnaezer/ultralight/tree/master/src/Ultralight
+- https://github.com/sta/websocket-sharp
+- https://github.com/ernstnaezer/ultralight/tree/master/src/Ultralight
