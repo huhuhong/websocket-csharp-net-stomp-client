@@ -41,7 +41,7 @@ namespace StompHelper
             Body = body;
             _headers = headers;
 
-            this["content-length"] = body.Length.ToString();
+            this["content-length"] = Encoding.UTF8.GetBytes(body).Length.ToString();
         }
 
         public Dictionary<string, string> Headers
